@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sByKhRRrUN1RwdHG+DdR8byYhW30FbzHD4kayUxTD6w6lVT8clapaQd0EtDGjc/zkQzI+y61HkAWJEBw3lK2Hw==",
+  "dgSpecHash": "OaoRtQCyLx4AubRnQXDyOjemh/9u2E7fkMIghQj10IZX+0aEGVAstY4PrmTZwGhEAqIHH6v+0grmtlek0V4fbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\FootballRESTService\\FootballRESTService.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\FootballRESTService\\FootballRESTService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

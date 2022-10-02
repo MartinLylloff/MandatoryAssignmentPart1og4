@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/TtbWO2JAR07+VlcIJg5XBKfg12P/zdkC5E1tArUA5Uu5cdbUeDp49TRXPS3IbRrmMSn/62if729zdHXMdXEqA==",
+  "dgSpecHash": "KG7xJR4A+MpYa0GasxD2c2rvEyPe7Uz/u7FiMS6H/s3LbmWQip3x/zqLcss6upTLlJHUxW5OIvNbyAEv6YiBlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1Tests\\MandatoryAssignment1Tests.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1Tests\\MandatoryAssignment1Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

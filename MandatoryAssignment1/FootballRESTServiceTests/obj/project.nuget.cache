@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0KMlaCtIIIUXS9ueqQRTg94SChK3Ue8JjWhc4GUaXo2p1vuGFDbmA1HgIeIXeL8dJwNuc38EcnhocCy01oENg==",
+  "dgSpecHash": "ZVtHneJz0NFR/eoofL+f3fOX8zbkwxHNRPJ2misQ8x/tlVyqxCWII2BUDbbqDKUm9LqefQP1tMpU81zXMjDvWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\FootballRESTServiceTests\\FootballRESTServiceTests.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\FootballRESTServiceTests\\FootballRESTServiceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -22,3 +22,15 @@ C:\Users\Lenovo\OneDrive\Skrivebord\MandatoryAssignment1\MandatoryAssignment1\ob
 C:\Users\Lenovo\OneDrive\Skrivebord\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\refint\MandatoryAssignment1.dll
 C:\Users\Lenovo\OneDrive\Skrivebord\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.pdb
 C:\Users\Lenovo\OneDrive\Skrivebord\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\ref\MandatoryAssignment1.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\net6.0\MandatoryAssignment1.deps.json
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\net6.0\MandatoryAssignment1.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\net6.0\MandatoryAssignment1.pdb
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\refint\MandatoryAssignment1.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\MandatoryAssignment1.pdb
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\net6.0\ref\MandatoryAssignment1.dll

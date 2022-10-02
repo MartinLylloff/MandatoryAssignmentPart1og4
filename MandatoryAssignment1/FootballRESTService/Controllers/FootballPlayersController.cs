@@ -86,6 +86,7 @@ namespace FootballRESTService.Controllers
             FootballPlayer player = _manager.GetById(id);
             
             if (player == null) return NotFound($"No player with id: {id} was found");
+            _manager.Delete(player.Id);
             return Ok(player);
         }
     }

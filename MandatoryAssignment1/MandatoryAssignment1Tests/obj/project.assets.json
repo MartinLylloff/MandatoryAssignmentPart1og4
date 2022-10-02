@@ -6358,11 +6358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1Tests\\MandatoryAssignment1Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1Tests\\MandatoryAssignment1Tests.csproj",
       "projectName": "MandatoryAssignment1Tests",
-      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1Tests\\MandatoryAssignment1Tests.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1Tests\\MandatoryAssignment1Tests.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1Tests\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6384,8 +6384,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj"
             }
           }
         }

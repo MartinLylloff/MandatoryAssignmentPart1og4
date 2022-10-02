@@ -246,11 +246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\FootballRESTService\\FootballRESTService.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\FootballRESTService\\FootballRESTService.csproj",
       "projectName": "FootballRESTService",
-      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\FootballRESTService\\FootballRESTService.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\FootballRESTService\\FootballRESTService.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\FootballRESTService\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\FootballRESTService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -272,8 +272,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Skrivebord\\Skole\\3. semester\\Afleveringer\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MandatoryAssignmentPart1og4\\MandatoryAssignment1\\MandatoryAssignment1\\MandatoryAssignment1.csproj"
             }
           }
         }

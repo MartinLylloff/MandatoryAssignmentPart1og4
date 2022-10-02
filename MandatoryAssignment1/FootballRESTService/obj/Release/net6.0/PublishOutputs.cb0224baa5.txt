@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\FootballRESTService.exe
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\FootballRESTService.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\FootballRESTService.deps.json
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\FootballRESTService.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\FootballRESTService.pdb
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment1.dll
+C:\Users\Lenovo\Documents\GitHub\MandatoryAssignmentPart1og4\MandatoryAssignment1\FootballRESTService\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment1.pdb
